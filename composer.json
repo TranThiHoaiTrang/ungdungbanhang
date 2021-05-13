@@ -1,0 +1,19 @@
+{
+    "name": "tranthihoaitrang/ungdungbanhang",
+    "description": "Create text",
+    "keywords": [],
+    "authors": [
+        {
+            "name": "tranthihoaitrang",
+            "email": "hoaitranghuawei@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "tranthihoaitrang\\ungdungbanhang\\": "/" }
+        },
+        "minimum-stability": "dev"
+ }
